@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: pyPath
+Version: 0.0.0
+Summary: toolkit and gui to create paths from json files
+Author-email: Jonas Fenchel <locken.kop97@web.de>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown

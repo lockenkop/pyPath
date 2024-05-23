@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/main_cli.py
+src/pathGenerator.py
+src/pyPath.egg-info/PKG-INFO
+src/pyPath.egg-info/SOURCES.txt
+src/pyPath.egg-info/dependency_links.txt
+src/pyPath.egg-info/entry_points.txt
+src/pyPath.egg-info/top_level.txt
+tests/test_pathGenerator.py
