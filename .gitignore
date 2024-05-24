@@ -1,0 +1,7 @@
+_wineprefix
+build
+dist
+.venv
+*.egg-info
+*__pycache__
+*.spec
