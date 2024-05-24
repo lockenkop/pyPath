@@ -1,0 +1,29 @@
+{
+    "00_Allgemeines": {},
+    "01_Vertragsunterlagen": {},
+    "02_Schriftverkehr": {},
+    "03_Zuarbeiten": {
+        "Bahngeodaten": {},
+        "Baugrund": {},
+        "Schall": {},
+        "TRE": {},
+        "V3_Meldungen": {},
+        "Vermess": {},
+        "\u00dcbergabe": {}
+    },
+    "04_Dokumentation": {},
+    "05_Protokolle": {},
+    "06_CAD": {
+        "Konstruktion": {},
+        "ProVI": {
+            "Arbverz": {}
+        }
+    },
+    "07_EPmitKosten": {},
+    "08_GP": {},
+    "09_AP": {},
+    "10_AU": {},
+    "11_Bestand": {},
+    "12_Material": {},
+    "13_TILOS": {}
+}
